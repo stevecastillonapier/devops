@@ -6,3 +6,6 @@ adding some more information to the readme.
 [![LICENSE](https://img.shields.io/github/license/stevecastillonapier/devops.svg?style=flat-square)](https://github.com/<github-username>/devops/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/stevecastillonapier/devops/all.svg?style=flat-square)](https://github.com/<github-username>/devops/releases)
+
+# DevOps
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/stevecastillonapier/<repository>/<action name taken from main.yml>/<branch>?style=flat-square)
